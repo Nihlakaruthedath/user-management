@@ -50,5 +50,5 @@ Upcoming Phases:
 
 Author:
 -------
-Your Name  
+Nihla
 Location: Portland, OR  
