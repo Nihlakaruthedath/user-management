@@ -8,9 +8,9 @@ It includes basic CRUD operations and uses Pytest for automation testing.
 
 Goal:
 -----
-✔ Build a REST API using Flask  
-✔ Use SQLite as the database  
-✔ Automate testing with Pytest  
+Build a REST API using Flask  
+Use SQLite as the database  
+Automate testing with Pytest  
 
 Project Structure:
 ------------------
@@ -23,32 +23,4 @@ Project Structure:
 │   └── test_app.py  
 └── requirements.txt     # Python dependencies
 
-Phase 1: Project Setup
-----------------------
-✅ Created folder structure  
-✅ Set up Python virtual environment  
-✅ Installed Flask and required libraries  
-✅ Added a basic Flask app with one route
 
-Getting Started:
-----------------
-1. Clone this repository  
-2. Create and activate a virtual environment  
-3. Install dependencies:
-   pip install -r requirements.txt  
-4. Run the app:
-   python app.py  
-5. Run tests:
-   pytest tests/
-
-Upcoming Phases:
-----------------
-🔜 Add user registration and login  
-🔜 Implement CRUD operations  
-🔜 Add authentication (JWT)  
-🔜 Extend test coverage with edge cases
-
-Author:
--------
-Nihla
-Location: Portland, OR  
